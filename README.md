@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
 <h3><em>Graduate from <a href="https://www.ruet.ac.bd/">RUET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
    </br> Jr Software Developer at <a href="https://qubitechbd.com/"> SeoPage1</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
- </br> Intern Web Developer at <a href="https://qubitechbd.com/"> Qubitech Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ </br>Former Intern Web Developer at <a href="https://qubitechbd.com/"> Qubitech Solutions</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </br></h3>
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
