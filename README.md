@@ -29,6 +29,9 @@ const tanvirMitul = {
 
 ### 🚀 Featured Projects
 
+**[TAS | Transcribe. Generate Meeting Minutes. Collaborate.](https://tas.bangla.gov.bd/)**
+AI-powered speech-to-text platform that instantly generates structured meeting minutes — complete with decisions, action items, and speaker attribution.
+
 **[BanglaGovBD | EBLICT Information Portal](#)**
 Next.js, TypeScript, Tailwind CSS, Material UI, REST API — a full CRUD Admin CMS with dynamic multi-level navigation and a clean, accessible UI.
 
