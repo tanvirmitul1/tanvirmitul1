@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Engineer with DevOps focus**, building and shipping production systems end-to-end — from Next.js/React frontends and Node.js/NestJS backends, down to the VPS, Docker containers, and Nginx configs that actually run them in production. I'm a graduate of **[RUET](https://www.ruet.ac.bd/)** (Rajshahi University of Engineering & Technology). Currently at **Dream71 Bangladesh Limited**, I lead frontend and backend architecture for large-scale AI-driven national platforms under the ICT Division, while owning deployment, server hardening, and infrastructure for several of them.
+I'm a **Full Stack Engineer with DevOps focus**, building and shipping production systems end-to-end — from Next.js/React frontends and Node.js/NestJS backends, down to the VPS, Docker containers, and Nginx configs that actually run them in production. I'm a graduate of **[RUET](https://www.ruet.ac.bd/)** (Rajshahi University of Engineering & Technology). Currently at **Dream71 Bangladesh Limited**, Here, I lead frontend architecture for large-scale AI-driven national platforms under the ICT Division, while owning deployment, server hardening, and infrastructure for several of them.
 
 - 🔭 Currently building **[Kagoj.ai](https://kagoj.ai/)**, **[Jiggasha.ai](https://jiggasha.ai/)** & **[TAS](https://tas.bangla.gov.bd/)**
 - 🧠 Working across the full stack — Next.js, Express.js, NestJS, MongoDB/MySQL, Socket.io, RBAC & OAuth/JWT auth
