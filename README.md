@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Tanvir%20Imam%20Mitul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20Engineer%20%7C%20Building%20AI-Driven%20National%20Platforms&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Tanvir%20Imam%20Mitul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Building%20AI-Driven%20National%20Platforms&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://tanvirim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tanvirmitul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
