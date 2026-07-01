@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Tanvir%20Imam%20Mitul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20DevOps%20Engineer%20%7C%20Building%20AI-Driven%20National%20Platforms&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Tanvir%20Imam%20Mitul&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2B%20Engineer%20%7C%20Building%20AI-Driven%20National%20Platforms&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://tanvirim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/tanvirmitul"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm a **Full Stack Engineer with a strong DevOps focus**, building and shipping production systems end-to-end — from Next.js/React frontends and Node.js/NestJS backends, down to the VPS, Docker containers, and Nginx configs that actually run them in production. Currently at **Dream71 Bangladesh Limited**, I lead frontend and backend architecture for large-scale AI-driven national platforms under the ICT Division, while owning deployment, server hardening, and infrastructure for several of them.
+I'm a **Full Stack Engineer with DevOps focus**, building and shipping production systems end-to-end — from Next.js/React frontends and Node.js/NestJS backends, down to the VPS, Docker containers, and Nginx configs that actually run them in production. Currently at **Dream71 Bangladesh Limited**, I lead frontend and backend architecture for large-scale AI-driven national platforms under the ICT Division, while owning deployment, server hardening, and infrastructure for several of them.
 
 - 🔭 Currently building **[Kagoj.ai](https://kagoj.ai/)**, **[Jiggasha.ai](https://jiggasha.ai/)** & **[TAS](https://tas.bangla.gov.bd/)**
 - 🧠 Working across the full stack — Next.js, Express.js, NestJS, MongoDB/MySQL, Socket.io, RBAC & OAuth/JWT auth
